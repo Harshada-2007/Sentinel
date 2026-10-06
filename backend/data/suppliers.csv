@@ -1,0 +1,201 @@
+supplier_id,name,tier,location,lead_time_days,unit_cost,capacity_units,reliability_score,backup_for
+SUP001,Delta Components,2,"Ho Chi Minh, VN",21,3341.96,4788,0.709,
+SUP002,Orion Industries,5,"Hamburg, DE",44,549.07,48555,0.808,
+SUP003,Delta Technologies,4,"Taipei, TW",28,3907.31,16603,0.642,SUP026
+SUP004,Theta Logistics,3,"Shanghai, CN",22,12744.27,8695,0.578,
+SUP005,Alpha Electronics,2,"Perth, AU",7,16319.15,11584,0.75,
+SUP006,Orion Technologies,3,"Bangkok, TH",26,12655.42,10185,0.696,
+SUP007,Alpha Technologies,1,"Perth, AU",19,2139.04,34843,0.82,
+SUP008,Sigma Logistics,3,"Busan, KR",19,833.78,45647,0.749,
+SUP009,Nexus Works,2,"Ho Chi Minh, VN",26,10851.16,28242,0.693,
+SUP010,Alpha Materials,2,"Pune, IN",21,1949.7,11407,0.894,
+SUP011,Titan Supply Co,1,"Hamburg, DE",4,5721.21,41779,0.779,
+SUP012,Vertex Manufacturing,2,"Hsinchu, TW",9,3031.13,40505,0.854,SUP093
+SUP013,Gamma Logistics,1,"Hsinchu, TW",19,15160.64,39020,0.938,
+SUP014,Helios Manufacturing,1,"Bangkok, TH",12,17926.44,31918,0.796,
+SUP015,Zenith Components,2,"Houston, US",17,6831.57,37021,0.802,
+SUP016,Sigma Electronics,3,"Bengaluru, IN",32,2591.19,36235,0.743,
+SUP017,Gamma Technologies,4,"Hanoi, VN",34,10309.28,27091,0.85,SUP014
+SUP018,Kappa Manufacturing,3,"Penang, MY",24,6608.25,26411,0.759,
+SUP019,Vertex Electronics,5,"Shanghai, CN",31,15708.12,12982,0.597,
+SUP020,Orion Supply Co,1,"Taipei, TW",10,19299.98,40789,0.799,
+SUP021,Orion Electronics,3,"Bengaluru, IN",27,3972.6,44842,0.776,SUP065
+SUP022,Zenith Systems,3,"Chennai, IN",24,4825.78,22501,0.68,SUP065
+SUP023,Nova Manufacturing,4,"Chennai, IN",34,4705.58,7753,0.434,
+SUP024,Vertex Supply Co,2,"Taipei, TW",22,10824.82,35744,0.804,SUP077
+SUP025,Kappa Materials,2,"Guadalajara, MX",9,6330.27,15672,0.818,SUP074
+SUP026,Orion Materials,1,"Houston, US",28,1186.27,15375,0.886,
+SUP027,Quantum Supply Co,5,"Guadalajara, MX",37,10219.71,49311,0.593,
+SUP028,Orion Manufacturing,2,"Shanghai, CN",24,5025.89,36954,0.934,
+SUP029,Orion Components,2,"Mumbai, IN",28,11175.12,6333,0.961,SUP068
+SUP030,Quantum Supply Co,4,"Taipei, TW",28,965.51,30362,0.601,
+SUP031,Vertex Works,4,"Mumbai, IN",29,4796.09,32968,0.701,SUP011
+SUP032,Vertex Systems,2,"Bengaluru, IN",29,19445.02,8601,0.728,
+SUP033,Nexus Materials,2,"Ho Chi Minh, VN",23,13737.0,41226,0.784,SUP080
+SUP034,Omega Industries,3,"Guadalajara, MX",27,2044.79,45066,0.589,
+SUP035,Sigma Supply Co,5,"Penang, MY",47,7327.12,36845,0.506,
+SUP036,Fusion Works,5,"Bengaluru, IN",42,13366.72,6038,0.675,SUP172
+SUP037,Helios Industries,2,"Hamburg, DE",25,314.19,6870,0.843,SUP118
+SUP038,Prime Systems,4,"Taipei, TW",34,13571.53,12764,0.887,SUP117
+SUP039,Beta Electronics,4,"Hamburg, DE",25,15521.26,33182,0.625,
+SUP040,Nova Logistics,4,"Bangkok, TH",43,2056.59,19650,0.782,
+SUP041,Gamma Logistics,2,"Bengaluru, IN",18,13142.05,40150,0.908,
+SUP042,Kappa Systems,3,"Sao Paulo, BR",42,4151.48,36677,0.724,
+SUP043,Zenith Technologies,2,"Shenzhen, CN",19,3777.5,47142,0.824,SUP078
+SUP044,Delta Technologies,5,"Ho Chi Minh, VN",44,443.3,46559,0.628,
+SUP045,Titan Electronics,3,"Hanoi, VN",30,8067.33,42854,0.705,
+SUP046,Fusion Materials,2,"Houston, US",12,19433.16,35409,0.841,
+SUP047,Alpha Supply Co,3,"Sao Paulo, BR",21,20544.86,8724,0.773,
+SUP048,Nova Technologies,3,"Hsinchu, TW",29,14500.8,35719,0.786,
+SUP049,Atlas Technologies,2,"Bangkok, TH",16,16833.49,43619,0.911,SUP197
+SUP050,Vertex Materials,5,"Chennai, IN",63,16589.74,33198,0.702,
+SUP051,Nova Technologies,4,"Sao Paulo, BR",33,7095.82,20027,0.723,
+SUP052,Alpha Works,1,"Mumbai, IN",14,9727.69,28046,0.831,
+SUP053,Apex Components,2,"Hsinchu, TW",20,894.83,41484,0.779,SUP011
+SUP054,Helios Supply Co,2,"Busan, KR",13,16006.0,12359,0.826,
+SUP055,Beta Industries,3,"Penang, MY",37,13271.81,36852,0.989,
+SUP056,Gamma Electronics,5,"Monterrey, MX",41,16525.61,14999,0.447,
+SUP057,Gamma Technologies,3,"Hamburg, DE",35,3698.78,9508,0.673,
+SUP058,Omega Systems,2,"Guadalajara, MX",22,13741.4,15436,0.99,
+SUP059,Nova Supply Co,5,"Sao Paulo, BR",49,12741.55,22140,0.688,SUP117
+SUP060,Kappa Logistics,2,"Perth, AU",15,421.37,7571,0.947,
+SUP061,Sigma Industries,1,"Hanoi, VN",25,2142.38,25597,0.856,
+SUP062,Quantum Manufacturing,3,"Houston, US",18,8343.86,31560,0.725,
+SUP063,Prime Systems,3,"Hsinchu, TW",23,13033.17,26150,0.737,
+SUP064,Orion Industries,5,"Taipei, TW",42,1580.02,32836,0.552,SUP099
+SUP065,Titan Components,1,"Penang, MY",14,11993.94,20632,0.945,
+SUP066,Sigma Industries,3,"Penang, MY",14,19542.68,20532,0.963,SUP166
+SUP067,Orion Components,5,"Taipei, TW",41,6703.53,42554,0.601,
+SUP068,Beta Industries,1,"Taipei, TW",19,2561.71,35443,0.821,
+SUP069,Beta Manufacturing,3,"Taipei, TW",29,16696.7,15537,0.786,
+SUP070,Prime Industries,2,"Ho Chi Minh, VN",23,20554.16,21805,0.895,
+SUP071,Apex Industries,2,"Guadalajara, MX",26,19321.84,43203,0.753,SUP125
+SUP072,Omega Works,3,"Penang, MY",30,2251.48,45322,0.833,
+SUP073,Apex Industries,3,"Monterrey, MX",31,18595.11,20681,0.698,
+SUP074,Fusion Industries,1,"Hsinchu, TW",13,19731.25,29525,0.912,
+SUP075,Delta Logistics,3,"Chennai, IN",23,6903.37,34280,0.571,
+SUP076,Fusion Logistics,4,"Houston, US",35,2005.67,25732,0.762,
+SUP077,Beta Electronics,1,"Shanghai, CN",24,18433.84,18843,0.671,
+SUP078,Quantum Manufacturing,1,"Hsinchu, TW",10,12875.56,6853,0.921,
+SUP079,Orion Industries,1,"Perth, AU",15,17075.77,35899,0.837,
+SUP080,Sigma Systems,1,"Hamburg, DE",5,16888.9,47467,0.735,
+SUP081,Fusion Materials,5,"Ho Chi Minh, VN",48,1846.74,39303,0.584,
+SUP082,Nexus Industries,3,"Taipei, TW",25,2418.0,25646,0.836,SUP197
+SUP083,Nexus Technologies,1,"Hsinchu, TW",13,2575.18,7641,0.812,
+SUP084,Beta Technologies,3,"Shenzhen, CN",35,19969.79,19993,0.802,
+SUP085,Gamma Industries,2,"Rotterdam, NL",22,19991.45,2583,0.786,
+SUP086,Fusion Systems,5,"Monterrey, MX",40,1646.59,28585,0.672,SUP014
+SUP087,Vertex Logistics,5,"Shanghai, CN",42,14474.66,23817,0.878,
+SUP088,Nova Logistics,3,"Shenzhen, CN",27,1061.85,15486,0.837,
+SUP089,Quantum Supply Co,5,"Houston, US",45,12915.04,15314,0.639,
+SUP090,Atlas Logistics,2,"Guadalajara, MX",16,12162.7,5731,0.608,
+SUP091,Apex Materials,5,"Perth, AU",42,16909.43,34867,0.459,
+SUP092,Atlas Industries,2,"Shanghai, CN",30,19362.49,43571,0.688,SUP166
+SUP093,Theta Technologies,1,"Shanghai, CN",12,16842.57,49389,0.873,
+SUP094,Titan Components,2,"Shanghai, CN",28,20129.47,42421,0.649,
+SUP095,Theta Systems,4,"Sao Paulo, BR",26,5763.66,4706,0.455,
+SUP096,Prime Materials,5,"Shanghai, CN",40,15985.25,47348,0.651,SUP099
+SUP097,Prime Electronics,4,"Rotterdam, NL",22,2788.48,47794,0.669,
+SUP098,Gamma Works,3,"Taipei, TW",19,12873.7,19191,0.821,
+SUP099,Orion Logistics,1,"Hsinchu, TW",26,16053.95,26967,0.904,
+SUP100,Theta Industries,5,"Penang, MY",50,18205.92,21367,0.856,
+SUP101,Kappa Components,1,"Bangkok, TH",19,4516.99,8545,0.99,
+SUP102,Gamma Logistics,1,"Penang, MY",3,8214.73,22998,0.986,
+SUP103,Theta Technologies,5,"Mumbai, IN",26,16287.74,21034,0.67,SUP011
+SUP104,Zenith Industries,3,"Mumbai, IN",25,9594.4,49041,0.58,
+SUP105,Orion Supply Co,3,"Bengaluru, IN",17,5077.62,5641,0.862,SUP093
+SUP106,Omega Supply Co,1,"Houston, US",8,3875.87,18592,0.917,
+SUP107,Titan Electronics,5,"Shenzhen, CN",38,3678.68,11229,0.856,SUP166
+SUP108,Nexus Works,1,"Penang, MY",9,3775.43,6257,0.827,
+SUP109,Delta Electronics,1,"Guadalajara, MX",12,7637.75,26164,0.737,
+SUP110,Vertex Technologies,4,"Ho Chi Minh, VN",33,18142.5,46201,0.63,
+SUP111,Omega Manufacturing,1,"Taipei, TW",10,15557.73,10857,0.965,
+SUP112,Orion Manufacturing,2,"Hanoi, VN",6,12876.31,19707,0.792,
+SUP113,Nova Systems,3,"Guadalajara, MX",20,18588.59,26560,0.835,
+SUP114,Atlas Works,3,"Sao Paulo, BR",20,11110.0,13638,0.737,
+SUP115,Alpha Technologies,2,"Hanoi, VN",19,6767.54,12149,0.801,
+SUP116,Delta Materials,2,"Ho Chi Minh, VN",25,16401.55,25925,0.989,
+SUP117,Delta Electronics,1,"Guadalajara, MX",20,15499.56,22719,0.99,
+SUP118,Omega Supply Co,1,"Hanoi, VN",5,13446.87,29397,0.792,
+SUP119,Kappa Industries,2,"Mumbai, IN",20,5017.42,6885,0.823,
+SUP120,Vertex Supply Co,2,"Sao Paulo, BR",17,3972.54,15684,0.755,SUP011
+SUP121,Apex Supply Co,2,"Shanghai, CN",24,20386.55,7377,0.57,SUP167
+SUP122,Gamma Logistics,2,"Ho Chi Minh, VN",24,3649.14,34094,0.762,SUP127
+SUP123,Beta Components,5,"Mumbai, IN",49,5899.21,38935,0.854,
+SUP124,Omega Supply Co,2,"Rotterdam, NL",9,10594.22,13635,0.744,
+SUP125,Nexus Technologies,1,"Pune, IN",18,12112.83,9409,0.728,
+SUP126,Sigma Components,3,"Hsinchu, TW",26,7067.13,8451,0.685,SUP079
+SUP127,Gamma Materials,1,"Guadalajara, MX",18,14180.83,38490,0.82,
+SUP128,Beta Manufacturing,3,"Penang, MY",21,7320.08,46617,0.503,
+SUP129,Sigma Materials,4,"Pune, IN",32,3862.52,5191,0.717,
+SUP130,Omega Components,4,"Hanoi, VN",33,3007.38,40172,0.817,SUP108
+SUP131,Helios Components,2,"Chennai, IN",18,16925.51,33929,0.788,
+SUP132,Vertex Industries,3,"Hsinchu, TW",24,8218.88,41196,0.837,
+SUP133,Helios Technologies,3,"Pune, IN",12,6340.57,37885,0.682,
+SUP134,Kappa Materials,3,"Busan, KR",24,8042.45,28090,0.783,SUP026
+SUP135,Nova Materials,5,"Pune, IN",41,19509.01,32129,0.562,
+SUP136,Alpha Materials,2,"Mumbai, IN",17,12913.81,27606,0.854,
+SUP137,Fusion Industries,5,"Ho Chi Minh, VN",42,6553.92,13927,0.601,
+SUP138,Nova Electronics,4,"Bengaluru, IN",29,15850.59,44084,0.707,
+SUP139,Beta Systems,2,"Busan, KR",17,3216.62,13004,0.949,
+SUP140,Vertex Systems,4,"Chennai, IN",40,14437.53,28050,0.787,
+SUP141,Atlas Industries,2,"Busan, KR",16,18861.75,30002,0.714,
+SUP142,Alpha Industries,3,"Bengaluru, IN",25,3287.45,30139,0.815,
+SUP143,Titan Supply Co,3,"Taipei, TW",26,18112.49,46741,0.73,
+SUP144,Zenith Manufacturing,3,"Sao Paulo, BR",27,14711.65,9321,0.798,SUP172
+SUP145,Quantum Technologies,3,"Mumbai, IN",37,15314.03,46849,0.616,
+SUP146,Alpha Electronics,5,"Ho Chi Minh, VN",39,20437.34,42267,0.551,SUP013
+SUP147,Nova Works,1,"Ho Chi Minh, VN",17,8354.13,4628,0.99,
+SUP148,Beta Electronics,2,"Bangkok, TH",10,11208.55,46153,0.719,
+SUP149,Fusion Manufacturing,2,"Mumbai, IN",15,9451.72,12781,0.947,
+SUP150,Fusion Works,3,"Sao Paulo, BR",24,10403.58,22108,0.725,
+SUP151,Delta Logistics,5,"Penang, MY",28,13165.27,2628,0.758,
+SUP152,Vertex Supply Co,4,"Shanghai, CN",25,1884.88,49849,0.673,
+SUP153,Fusion Components,3,"Sao Paulo, BR",26,15592.81,12075,0.682,
+SUP154,Sigma Industries,5,"Chennai, IN",36,878.36,24659,0.593,
+SUP155,Fusion Electronics,3,"Mumbai, IN",10,9215.45,21236,0.889,
+SUP156,Kappa Manufacturing,3,"Hsinchu, TW",23,17899.26,47413,0.716,SUP083
+SUP157,Atlas Technologies,2,"Hanoi, VN",12,8554.85,3218,0.903,
+SUP158,Fusion Manufacturing,2,"Bengaluru, IN",27,683.37,12654,0.914,
+SUP159,Atlas Technologies,2,"Hamburg, DE",19,3807.07,33331,0.83,
+SUP160,Vertex Logistics,2,"Bengaluru, IN",17,15021.62,43073,0.796,
+SUP161,Nova Works,4,"Penang, MY",25,4352.4,16071,0.865,SUP080
+SUP162,Atlas Logistics,5,"Guadalajara, MX",32,8816.59,44848,0.683,SUP011
+SUP163,Alpha Supply Co,4,"Hanoi, VN",27,7955.85,30334,0.576,SUP083
+SUP164,Vertex Logistics,2,"Penang, MY",30,11510.75,22934,0.692,SUP106
+SUP165,Kappa Manufacturing,2,"Houston, US",19,16621.91,22410,0.917,SUP080
+SUP166,Nexus Systems,1,"Perth, AU",3,13190.31,14378,0.911,
+SUP167,Prime Systems,1,"Rotterdam, NL",14,5740.97,2882,0.751,
+SUP168,Gamma Supply Co,5,"Sao Paulo, BR",34,5777.03,28600,0.67,
+SUP169,Kappa Manufacturing,4,"Taipei, TW",35,351.29,8570,0.653,
+SUP170,Orion Supply Co,5,"Busan, KR",45,12510.46,33921,0.676,
+SUP171,Vertex Materials,2,"Shenzhen, CN",24,8026.92,26908,0.804,SUP117
+SUP172,Beta Industries,1,"Monterrey, MX",9,1832.26,30951,0.932,
+SUP173,Kappa Electronics,2,"Houston, US",15,7460.43,36514,0.668,
+SUP174,Fusion Works,2,"Perth, AU",35,13813.05,46967,0.725,SUP020
+SUP175,Quantum Systems,4,"Bengaluru, IN",22,1185.18,25825,0.761,
+SUP176,Orion Materials,3,"Shenzhen, CN",21,2323.14,5606,0.865,
+SUP177,Delta Logistics,4,"Busan, KR",31,9093.03,13827,0.898,
+SUP178,Nova Technologies,4,"Houston, US",37,5737.63,30331,0.763,SUP118
+SUP179,Beta Technologies,2,"Busan, KR",18,11301.48,43901,0.688,
+SUP180,Delta Systems,4,"Hamburg, DE",38,14403.05,42761,0.756,
+SUP181,Nexus Technologies,2,"Guadalajara, MX",19,20495.65,47314,0.667,
+SUP182,Kappa Manufacturing,1,"Houston, US",15,3848.96,29261,0.923,
+SUP183,Kappa Technologies,5,"Pune, IN",38,20153.06,47324,0.695,
+SUP184,Sigma Systems,3,"Rotterdam, NL",26,6706.11,41787,0.753,
+SUP185,Apex Systems,1,"Ho Chi Minh, VN",17,2611.25,5693,0.739,
+SUP186,Orion Supply Co,4,"Sao Paulo, BR",26,1472.51,17133,0.826,
+SUP187,Apex Industries,3,"Ho Chi Minh, VN",32,13033.82,44526,0.685,SUP127
+SUP188,Nexus Electronics,3,"Hanoi, VN",32,19493.24,40341,0.758,SUP109
+SUP189,Orion Supply Co,5,"Mumbai, IN",35,8414.53,25034,0.772,
+SUP190,Titan Technologies,3,"Taipei, TW",34,8815.2,37403,0.705,SUP106
+SUP191,Omega Materials,2,"Busan, KR",15,6048.95,16222,0.79,
+SUP192,Quantum Materials,2,"Perth, AU",21,8051.43,34623,0.817,SUP011
+SUP193,Gamma Logistics,2,"Pune, IN",15,18256.75,47347,0.803,
+SUP194,Titan Technologies,3,"Houston, US",28,20567.85,13120,0.638,
+SUP195,Fusion Components,5,"Perth, AU",49,10698.96,13072,0.767,SUP108
+SUP196,Fusion Logistics,2,"Penang, MY",16,16203.82,18806,0.758,
+SUP197,Alpha Works,1,"Bengaluru, IN",6,15763.55,35408,0.843,
+SUP198,Apex Components,2,"Chennai, IN",23,4740.85,27774,0.765,
+SUP199,Atlas Logistics,3,"Pune, IN",26,18222.57,14748,0.666,
+SUP200,Sigma Technologies,1,"Bangkok, TH",16,13639.19,28441,0.909,

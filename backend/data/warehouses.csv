@@ -1,0 +1,16 @@
+warehouse_id,name,location,capacity_units,holding_cost_per_unit_day
+WH01,Mumbai DC,"Mumbai, IN",85695,0.84
+WH02,Delhi DC,"Delhi, IN",70912,1.13
+WH03,Bangalore DC,"Bangalore, IN",40608,1.18
+WH04,Chennai DC,"Chennai, IN",68303,4.82
+WH05,Pune DC,"Pune, IN",29159,3.06
+WH06,Hyderabad DC,"Hyderabad, IN",56498,2.97
+WH07,Kolkata DC,"Kolkata, IN",29682,3.26
+WH08,Ahmedabad DC,"Ahmedabad, IN",80094,1.24
+WH09,Jaipur DC,"Jaipur, IN",26414,2.89
+WH10,Kochi DC,"Kochi, IN",95338,4.71
+WH11,Lucknow DC,"Lucknow, IN",74293,2.93
+WH12,Coimbatore DC,"Coimbatore, IN",67492,0.89
+WH13,Nagpur DC,"Nagpur, IN",70887,6.14
+WH14,Indore DC,"Indore, IN",69005,5.91
+WH15,Surat DC,"Surat, IN",77917,1.53
