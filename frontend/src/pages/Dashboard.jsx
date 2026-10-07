@@ -44,7 +44,7 @@ export default function Dashboard() {
       <PageTitle>Dashboard</PageTitle>
 
       <Query q={kpis}>{k => (
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
           <KpiCard label="Suppliers at risk"    value={k.suppliers_at_risk}   tone="critical" icon={Truck} />
           <KpiCard label="Rupee exposure"       value={inr(k.dollar_exposure)} tone="warning"  icon={IndianRupee} />
           <KpiCard label="Stockouts predicted"  value={k.stockouts_predicted}  tone="critical" icon={PackageX} />

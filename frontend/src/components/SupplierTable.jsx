@@ -14,7 +14,7 @@ export default function SupplierTable({ suppliers, onSelect }) {
   return (
     <div className="card overflow-hidden p-0">
       <div className="overflow-x-auto">
-        <table className="w-full text-sm">
+        <table className="w-full min-w-[700px] text-sm">
           <thead className="bg-ink-700/60 text-slate-400 text-[11px] uppercase tracking-wider">
             <tr>
               {cols.map(([k, l]) => (

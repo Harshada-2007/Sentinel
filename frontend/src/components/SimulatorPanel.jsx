@@ -13,7 +13,7 @@ const Col = ({ title, o, tone, badge }) => (
       <div className="text-sm text-white font-medium">{title}</div>
       {badge && <span className={`pill ${badge}`}>{badge.text}</span>}
     </div>
-    <div className="grid grid-cols-3 gap-2">
+    <div className="grid grid-cols-1 sm:grid-cols-3 gap-2">
       <Stat value={`${o.stockout_risk_pct}%`} label="Stockout risk" tone={o.stockout_risk_pct > 15 ? 'text-red-400' : 'text-green-400'} />
       <Stat value={`${o.sla_pct}%`}         label="SLA"           tone={o.sla_pct < 90 ? 'text-amber-400' : 'text-green-400'} />
       <Stat value={inr(o.total_cost)}       label="Cost" />

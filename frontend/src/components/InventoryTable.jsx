@@ -6,7 +6,7 @@ export default function InventoryTable({ rows, warehouses, onSelect, selected })
 
   return (
     <div className="card overflow-auto p-0 max-h-[560px]">
-      <table className="text-xs w-full border-separate border-spacing-0">
+      <table className="text-xs w-full min-w-max border-separate border-spacing-0">
         <thead className="sticky top-0 z-10 bg-ink-800/95 backdrop-blur text-slate-400">
           <tr>
             <th className="text-left px-3 py-3 border-b border-ink-600">Product</th>

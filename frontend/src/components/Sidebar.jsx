@@ -11,9 +11,9 @@ const links = [
   { to: '/recommendations', label: 'Recommendations', icon: Lightbulb },
 ]
 
-export default function Sidebar() {
+export default function Sidebar({ open = false, onNavigate = () => {} }) {
   return (
-    <aside className="w-60 shrink-0 bg-ink-800/80 backdrop-blur border-r border-ink-600 h-screen sticky top-0 p-4 flex flex-col">
+    <aside className={`fixed inset-y-0 left-0 z-40 w-64 shrink-0 bg-ink-800/95 backdrop-blur border-r border-ink-600 h-screen p-4 flex flex-col transition-transform duration-200 md:sticky md:top-0 md:w-60 md:translate-x-0 md:bg-ink-800/80 ${open ? 'translate-x-0' : '-translate-x-full'}`}>
       <div className="flex items-center gap-2.5 mb-8 px-2 py-3">
         <span className="w-9 h-9 rounded-xl bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center shadow-glow">
           <ShieldCheck className="text-white" size={18} />
@@ -30,6 +30,7 @@ export default function Sidebar() {
             key={to}
             to={to}
             end={to === '/'}
+            onClick={onNavigate}
             className={({ isActive }) =>
               `group relative flex items-center gap-2.5 px-3 py-2 rounded-xl text-sm transition-all duration-150 ${
                 isActive

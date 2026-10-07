@@ -36,7 +36,7 @@ export default function ImpactPanel({ impact }) {
       </div>
 
       <div className="card overflow-x-auto p-0">
-        <table className="w-full text-sm">
+        <table className="w-full min-w-[520px] text-sm">
           <thead className="bg-ink-700/60 text-slate-400 text-[11px] uppercase tracking-wider">
             <tr>
               <th className="text-left px-4 py-3">Product</th>
