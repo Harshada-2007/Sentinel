@@ -11,5 +11,5 @@ React (Vite, Tailwind, React Query, Recharts)
 FastAPI routers ──► services ──► ML models (.pkl) + PuLP optimizer + LLM layer
         │
         ▼
-db.py ── Supabase (if SUPABASE_URL/KEY set) │ else local CSVs in backend/data 
+db.py ── Supabase (if SUPABASE_URL/KEY set) or local CSVs in backend/data 
 ```
